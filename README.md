@@ -55,15 +55,6 @@ Welcome to A Special Journey! This project is a collection of memorable moments 
 - **Colors**: Update the colors in `tailwind.config.js` or modify individual Tailwind classes in the JSX components to match your desired theme.
 - **Images**: Replace the image URLs in the components with your own images to add a personal touch.
 
-## 🌐 Connect with Me
-
-Follow for more such creative and code-based content!
-
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
 ---
 
 Thanks for checking out this project! If you liked it, consider giving it a ⭐️ on GitHub and sharing the reel ❤️
